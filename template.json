@@ -249,7 +249,7 @@
                 "notificationSettings": {
                     "status": "Enabled",
                     "timeInMinutes": 30,
-                    "emailRecipient": "mmclarnon@nanthealth.com",
+                    "emailRecipient": "rcorry@nanthealth.com",
                     "notificationLocale": "en"
                 },
                 "targetResourceId": "[resourceId('Microsoft.Compute/virtualMachines', parameters('virtualMachines_opennms_rc_vm_name'))]"
